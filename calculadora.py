@@ -34,4 +34,11 @@ elif opcion == "4":
 
 else:
     print("Opción no válida")
-input("Presiona Enter para salir...")
+ print("\nPresiona ENTER para continuar")
+    print("Escribe ESC y presiona ENTER para salir")
+
+    salir = input(">> ").lower()
+
+    if salir == "esc":
+        print("Gracias por usar la calculadora 👋")
+        break
