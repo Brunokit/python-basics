@@ -34,3 +34,4 @@ elif opcion == "4":
 
 else:
     print("Opción no válida")
+input("Presiona Enter para salir...")
