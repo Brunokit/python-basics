@@ -1,3 +1,5 @@
+input("Presiona ENTER para iniciar la calculadora...")
+
 # Calculadora básica en Python
 
 print("Bienvenido a la calculadora")
